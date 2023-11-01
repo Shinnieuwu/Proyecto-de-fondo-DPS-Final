@@ -1,0 +1,29 @@
+body{
+	margin: 30px 100px 50px 100px;
+	font-family: Arial, sans-serif;
+}
+
+ul{
+	list-style-type: none;
+	list-style-position: outside;
+}
+
+.cliente{
+	list-style-image: url("../PNG/cliente.png");
+}
+
+.proveedor{
+	list-style-image: url("../PNG/proveedor.png");
+}
+
+.pago{
+	list-style-image: url("../PNG/pago.png");
+}
+
+.inventario{
+	list-style-image: url("../PNG/inventario.png");
+}
+
+ol{
+	list-style-type: lower-roman;
+}
